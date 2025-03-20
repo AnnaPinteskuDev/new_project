@@ -36,4 +36,7 @@ def pryamougolniy_tr(a, b, c):
 
 print(ostrougolniy_tr(5, 3, 4))
 print(tupougolniy_tr(6, 5, 9))
-print(pryamougolniy_tr(3, 4, 5))
+print(pryamougolniy_tr(3, 4, "sdjsdkjh"),
+
+print("Hello world"),
+print("helo world dkjfdf")
